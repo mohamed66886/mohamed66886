@@ -11,15 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Student at **Kafrelsheikh University**
-- 💻 Frontend Developer with **1.5+ years experience**
-- 🚀 Passionate about building modern web applications
-- 🧠 Interested in **Web Development & AI**
-- 📈 Active on GitHub and constantly improving my skills
-
----
 
 ## 🚀 Tech Stack
 
